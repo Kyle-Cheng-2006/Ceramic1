@@ -27,7 +27,15 @@ h3{
   margin:auto;
 }
 
-
+/* li{
+  text-align: justify;
+  font-family:'Courier New', Courier, monospace;
+   font-size:25px;
+   width:80%;
+   margin:auto;
+   font-weight: normal;
+   line-height: 1.5;
+} */
 
 p{
   text-align: justify;
